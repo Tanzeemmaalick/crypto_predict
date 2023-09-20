@@ -1,4 +1,4 @@
-# crypto_predict
+
 # Stock Trend Prediction
 
 ![Stock Trend Prediction](stock_trend_prediction.png)
